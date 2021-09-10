@@ -2,6 +2,8 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import App from './App';
 
+//feature 1
+
 //styling for React App
 import './index.css'
 
