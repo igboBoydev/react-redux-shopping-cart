@@ -5,7 +5,7 @@
            "title": "Anaconda Dress Directly From Spain ",
            "image": "https://images.unsplash.com/photo-1595777457583-95e059d581b8?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8ZHJlc3N8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
            "description": "about dress 1",
-           "availableSizes": ["L", "XL", "XL", "XXL"],
+           "availableSizes": ["All", "S", "L", "XL", "XL", "XXL"],
            "price": 19.9
         },
         {
@@ -14,7 +14,7 @@
            "image": "https://images.unsplash.com/photo-1550639525-c97d455acf70?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8ZHJlc3N8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
            "description": "about dress 2",
            "price": 29.9,
-           "availableSizes": ["X", "M", "XXL"]
+           "availableSizes": ["All", "L", "S", "X", "XXL"]
         },
         {
             "id": "dress3",
@@ -22,7 +22,7 @@
            "image": "https://images.unsplash.com/photo-1539008835657-9e8e9680c956?ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8ZHJlc3N8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
            "description": "about dress 3",
            "price": 19.9,
-           "availableSizes": ["L", "M", "XXL"]
+           "availableSizes": ["All", "XS", "L",  "XXL"]
         },
         {
             "id": "dress4",
@@ -30,7 +30,7 @@
            "image": "https://images.unsplash.com/photo-1585487000160-6ebcfceb0d03?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTZ8fGRyZXNzfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
            "description": "about dress 4",
            "price": 39.9,
-           "availableSizes": ["L", "M", "XL"]
+           "availableSizes": ["All", "S",  "M", "XL", "XXL"]
         },
         {
              "id": "dress5",
@@ -38,15 +38,39 @@
            "image": "https://images.unsplash.com/photo-1612336307429-8a898d10e223?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjF8fGRyZXNzfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
            "description": "about dress 5",
            "price": 50.9,
-           "availableSizes": ["L", "M", "XL", "XXL"]
+           "availableSizes": ["All", "XS", "S", "M", "L", "XL", "XXL"]
         },
         {
-             "id": "dress6",
+           "id": "dress6",
            "title": "Flames",
            "image": "https://images.unsplash.com/photo-1592020051126-c240d2aaa98b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mjd8fGRyZXNzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
            "description": "about dress 6",
            "price": 25.9,
-           "availableSizes": ["L", "M", "XL", "XXL"]
+           "availableSizes": ["All", "XS", "L", "M", "XL", "XXL"]
+        },
+        {
+            "id": "dress7",
+            "title": "Chineese Flair",
+            "image": "https://images.unsplash.com/photo-1605763240000-7e93b172d754?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8ZHJlc3N8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+            "description": "about dress 7",
+            "price": 55.9,
+            "availableSizes": ["All", "XS", "S","L", "M", "XL", "XXL"]
+        },
+        {
+            "id": "dress8",
+            "title": "Horny Looking Dress for Ladies",
+            "image": "https://images.unsplash.com/photo-1612722432474-b971cdcea546?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTV8fGRyZXNzfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+            "description": "about dress 8",
+            "price": 95,
+            "availableSizes": ["All", "XS", "M", "S", "XL", "XXL"]
+        },
+        {
+             "id": "dress9",
+            "title": "Black Gown",
+            "image": "https://images.unsplash.com/photo-1623580674393-edf6eb7090f8?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzN8fGRyZXNzfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+            "description": "about dress 9",
+            "price": 105,
+            "availableSizes": ["All", "XS", "S", "M", "XL", "XXL"]
         }
         
            
