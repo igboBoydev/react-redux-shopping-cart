@@ -1,12 +1,12 @@
 import React from 'react'
 import formatCurrency from '../utils';
 
-const Products = ({products}) => {
+const Products = ({product}) => {
   return (
     <div>
           <ul className="products">
-              {products.map((product) => {
-                  const { id, title, image, description, price } = product;
+              {product.map((products) => {
+                  const { id, title, image, description, price } = products;
                   return (
                   <li key={id}>
                       <div className="product">
@@ -22,20 +22,6 @@ const Products = ({products}) => {
                       </li>
                   )
               })}
-              {/* <li>
-                  <div className='product'>
-                      <a href={`# ${id}`}>
-                          <img src={image} alt={title} />
-                          <p>{title}</p>
-                      </a>
-                      <div className="product-price">
-                          <div>
-                              {price}
-                          </div>
-                          <button className='button primary'>Add To Cart</button>
-                      </div>
-                 </div>
-          </li> */}
       </ul>
     </div>
   )
